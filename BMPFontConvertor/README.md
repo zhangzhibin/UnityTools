@@ -14,13 +14,13 @@ A custom font with material will be generated automatically
 自动创建Unity 自定义字体和所需的材质。
 
 ##Version History
-1. 1.0.1
+1. V1.0.1
 
 bug fix: Miscalculation of font UV. 
 
 字体在纹理中的坐标计算错误
 
-1. 1.0.2 
+2. V1.0.2 
 
 bug fix: Now generated font's vertical alignment center just like normal font. You don't have to change the alignment when changing normal font to custom font now. 
 
