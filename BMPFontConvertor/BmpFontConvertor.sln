@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D056316E-63C0-808B-D779-3DEA3324BD5F}") = "BMPFontConvertor", "Assembly-CSharp-Editor.csproj", "{09BE901F-10DE-1BD6-2571-C8525306D57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BE901F-10DE-1BD6-2571-C8525306D57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BE901F-10DE-1BD6-2571-C8525306D57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BE901F-10DE-1BD6-2571-C8525306D57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BE901F-10DE-1BD6-2571-C8525306D57A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
